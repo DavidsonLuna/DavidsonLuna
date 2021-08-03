@@ -1,8 +1,11 @@
 ### Hello I'm Davidson Luna QA engineer and street photographer 👋
  <div>
-- 📷 Currently I am working as QA engineer<br>
-- 🌱 I’m currently learning for AWS Cloud Pratictioner Certified<br>
-- ⚡ Fun fact: I'm a street photographer in my spare time<br>
+- 📷 Currently I am working as QA engineer
+ <br>
+- 🌱 I’m currently learning for AWS Cloud Pratictioner Certified
+ <br>
+- ⚡ Fun fact: I'm a street photographer in my spare time
+ <br>
  </div>
  <br>
  <div>
