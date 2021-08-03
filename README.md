@@ -4,7 +4,7 @@
  <br>
 - 🌱 I’m currently learning for AWS Cloud Pratictioner Certified
  <br>
-- ⚡ Fun fact: I'm a street photographer in my spare time
+- ⚡ Fun fact: I'm a street photographer and and a bookworm in my spare time 
  <br>
  </div>
  <br>
