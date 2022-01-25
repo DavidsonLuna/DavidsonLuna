@@ -2,7 +2,7 @@
  <div>
 - ⚡ I'm a QA engineer
  <br>
-- 🌱 I’m currently learning AWS Cloud Computing
+- 🌱 I’m currently learning Cypress and NodeJS
  <br>
 - 📷  Fun fact: I'm a street photographer and bookworm in my spare time 
   <br> <br>
