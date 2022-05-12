@@ -1,6 +1,6 @@
 # 💫About Me :
 - ⚡ I'm a QA engineer
-- 🌱 I’m currently learning Cypress and NodeJS
+- 🌱 I’m currently learning Cypress (NodeJS) and Playwright (TypeScript)
 - 📷  Fun fact: I'm a street photographer and bookworm in my spare time 
 
   ![Snake animation](https://github.com/davidsonluna/davidsonluna/blob/output/github-contribution-grid-snake.svg)
