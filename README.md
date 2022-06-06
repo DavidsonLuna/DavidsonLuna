@@ -1,8 +1,8 @@
 <img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
-<div align="center">
+
 ![Snake animation](https://github.com/davidsonluna/davidsonluna/blob/output/github-contribution-grid-snake.svg)
-</div>
+
  
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidsonluna&theme=radical&hide_border=false"/>
