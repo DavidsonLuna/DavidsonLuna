@@ -21,9 +21,10 @@
 
 
 ### 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=davidsonluna&theme=radical&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonluna&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=davidsonluna&theme=radical&hide_border=false)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidsonluna&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonluna&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<br/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsonluna&theme=radical&hide_border=false"/>
+  
 
 ### 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=davidsonluna&theme=discord&no-frame=false&no-bg=false&margin-w=4)
