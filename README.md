@@ -1,6 +1,10 @@
 <img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
 <div align="center">
+![Snake animation](https://github.com/davidsonluna/davidsonluna/blob/output/github-contribution-grid-snake.svg)
+</div>
+ 
+<div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidsonluna&theme=radical&hide_border=false"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davidsonluna&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonluna&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsonluna&theme=radical&hide_border=false"/>
@@ -16,7 +20,7 @@
 [![Unsplash](https://img.shields.io/badge/Unsplash-12100E?logo=Unsplash&logoColor=white)](https://unsplash.com/@davidsonluna) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davidsonluna) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@davidsonluna) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/davidsonluna) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Davidson-Luna) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/davidsonluna) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6105918) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/davidsonluna) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/davidsonluna) 
 
- ![Snake animation](https://github.com/davidsonluna/davidsonluna/blob/output/github-contribution-grid-snake.svg)
+ 
  
 
 ### 💻Some Tool and Tech I use
