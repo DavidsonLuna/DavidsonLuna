@@ -3,15 +3,13 @@
 
 ![Snake animation](https://github.com/davidsonluna/davidsonluna/blob/output/github-contribution-grid-snake.svg)
 
- 
+## 📟 GitHub Stats 🔝
 <div align="center">
-
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidsonluna&theme=radical&hide_border=false"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davidsonluna&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonluna&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsonluna&theme=radical&hide_border=false"/>
  
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
-
     A passionate QA engineer and street photographer, currently learning Cypress & NodeJS || Playwright & TypeScript
  </div>
 
