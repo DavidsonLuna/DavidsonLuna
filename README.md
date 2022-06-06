@@ -9,7 +9,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davidsonluna&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonluna&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsonluna&theme=radical&hide_border=false"/>
  
-## <img src="https://media.giphy.com/media/cjKwXWIGwRBbSq6Brg/giphy.gif" width="60"> A little about me <img src="https://media.giphy.com/media/83w8SgyqfYfFZ5IGoF/giphy.gif" width="60">
+## <img src="https://media.giphy.com/media/3OXc5iM4VybLzKAoBR/giphy.gif" width="60"> A little about me <img src="https://media.giphy.com/media/83w8SgyqfYfFZ5IGoF/giphy.gif" width="60">
     A passionate QA engineer and street photographer, currently learning Cypress & NodeJS || Playwright & TypeScript
  </div>
 
