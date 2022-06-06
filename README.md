@@ -1,7 +1,12 @@
 <img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
 <div align="center">
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidsonluna&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonluna&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsonluna&theme=radical&hide_border=false"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidsonluna&theme=radical&hide_border=false"/>
+
+### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
+
     A passionate QA engineer and street photographer, currently learning Cypress & NodeJS || Playwright & TypeScript
 
  </div>
