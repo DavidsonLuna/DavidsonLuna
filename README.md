@@ -22,8 +22,9 @@
 ## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 😂Random Dev Meme
-<img src="https://devpost.com/software/random-meme-generator" width="512px"/>
+## 😂Joke Of The Day
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card"/>
+
 
 ---
 ![](https://komarev.com/ghpvc/?username=davidsonluna&label=Visitors+Count&color=brightgreen)
