@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate Datas
 
 on:
   # run automatically every 24 hours
@@ -14,7 +14,6 @@ on:
     - master
     
   
-
 jobs:
   generate:
     permissions: 
