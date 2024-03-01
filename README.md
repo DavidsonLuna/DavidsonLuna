@@ -1,12 +1,4 @@
-<img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+<img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif">
 
 ## 📟GitHub Stats
 <div align="center">
@@ -31,7 +23,7 @@ https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-sn
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://devpost.com/software/random-meme-generator" width="512px"/>
 
 ---
 ![](https://komarev.com/ghpvc/?username=davidsonluna&label=Visitors+Count&color=brightgreen)
