@@ -23,8 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 😂Joke Of The Day
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card"/>
-
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" height="150" width="600"/>
 
 ---
 ![](https://komarev.com/ghpvc/?username=davidsonluna&label=Visitors+Count&color=brightgreen)
