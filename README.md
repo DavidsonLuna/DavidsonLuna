@@ -1,6 +1,6 @@
 <img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
-![Snake animation](https://github.com/davidsonluna/davidsonluna/blob/output/dist/github-snake-dark.svg?palette=github-dark)
+![Snake animation](https://github.com/davidsonluna/davidsonluna/blob/output/github-snake-dark.svg?palette=github-dark)
 
 https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
 
