@@ -17,12 +17,12 @@
 </p>
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=davidsonluna&theme=radical&hide_border=true&include_all_commits=false&count_private=false"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidsonluna&theme=radical"
     alt="GitHub statistics"
     width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonluna&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidsonluna&theme=radical"
     alt="Most used programming languages"
     width="49%"
   />
