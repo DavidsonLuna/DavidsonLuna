@@ -100,6 +100,15 @@ QA professional with a passion for innovation, AI-driven Quality Engineering, an
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white)
 
+## 🤖 AI
+
+![Claude](https://img.shields.io/badge/Claude-1F2335?style=flat-square&logo=anthropic&logoColor=D4A27F)
+![Devin](https://img.shields.io/badge/Devin-1F2335?style=flat-square&logo=cognition&logoColor=7AB8FF)
+![Copilot](https://img.shields.io/badge/Copilot-1F2335?style=flat-square&logo=githubcopilot&logoColor=FFFFFF)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1F2335?style=flat-square&logo=openai&logoColor=74AA9C)
+![Gemini](https://img.shields.io/badge/Gemini-1F2335?style=flat-square&logo=googlegemini&logoColor=8E75B2)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-1F2335?style=flat-square&logo=googlenotebooklm&logoColor=8AB4F8)
+
 ## 📊 Contribution
 <p align="center">
   <picture>
