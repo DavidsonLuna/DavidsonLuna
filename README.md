@@ -35,7 +35,9 @@
   />
 </p>
 
-## <img src="https://media.giphy.com/media/3OXc5iM4VybLzKAoBR/giphy.gif" width="60" alt=""> A little about me <img src="https://media.giphy.com/media/83w8SgyqfYfFZ5IGoF/giphy.gif" width="60" alt="">
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3OXc5iM4VybLzKAoBR/giphy.gif" width="60" alt=""> A little about me <img src="https://media.giphy.com/media/83w8SgyqfYfFZ5IGoF/giphy.gif" width="60" alt="">
+</h2>
 
 QA professional with a passion for innovation, AI-driven Quality Engineering, and autonomous testing. Designing smarter testing strategies, exploring multi-agent architectures, and capturing the world one frame at a time.
 
@@ -58,6 +60,7 @@ QA professional with a passion for innovation, AI-driven Quality Engineering, an
 ### Testing and development
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2962ff?style=flat-square&logo=typescript&logoColor=white)
@@ -115,7 +118,7 @@ QA professional with a passion for innovation, AI-driven Quality Engineering, an
   <img
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
     alt="Random developer quote"
-    width="85%"
+    width="500"
   />
 </p>
 
@@ -124,7 +127,7 @@ QA professional with a passion for innovation, AI-driven Quality Engineering, an
   <img
     src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder"
     alt="Random developer joke"
-    width="85%"
+    width="500"
   />
 </p>
 
